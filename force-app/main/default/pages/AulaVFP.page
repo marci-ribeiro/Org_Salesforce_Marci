@@ -1,0 +1,4 @@
+<apex:page >
+    <h1>Parabéns</h1>
+    Esta é a primeira Visual Force Page!
+</apex:page>
